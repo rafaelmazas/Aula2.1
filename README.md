@@ -1,4 +1,5 @@
 # Aula2.1
 Nicolas Cage
-Will Smith
+Tom Hanks
 Bruce Willis
+Brad Pitt
